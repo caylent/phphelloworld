@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World from Caylent.</p>'; ?> 
-  <?php echo '<p>A super light weight app test 2.</p>'; ?> 
+  <?php echo '<p>A light weight test php app.</p>'; ?> 
  </body>
 </html>
